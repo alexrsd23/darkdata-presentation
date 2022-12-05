@@ -12,5 +12,5 @@ body{
     display: flex;
     justify-content: center;
     background-color:rgb(13, 17, 23);
-    background-image: url(/_img/back.svg);
+    background-image: url(/img/back.svg);
 }
