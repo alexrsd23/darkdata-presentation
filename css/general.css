@@ -12,5 +12,5 @@ body{
     display: flex;
     justify-content: center;
     background-color:rgb(13, 17, 23);
-    background-image: url(/img/back.svg);
+    background-image: url(https://raw.githubusercontent.com/alexrsd23/darkdata-presentation/b7df023d7023896158b0ae6ad658bbfaaaf1e52d/img/back.svg);
 }
